@@ -1,1 +1,3 @@
+org.springframework.boot.SpringApplicationRunListener=\
+com.zy.springboot.starter.apollo.listener.ApolloSpringApplicationRunListener
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.zy.springboot.starter.apollo.ApolloStarterConfig

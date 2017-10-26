@@ -1,3 +1,11 @@
+## 修改历史
+
+### 2017-10-26
+
+1. 修改apollo的加载时许为在 初始化env之后执行，这样就可以使用conditional的标签
+2. 如果系统变量中含有 app.id 则以系统优先
+
+
 ## 使用 springBoot 封装 apollo-client
 
 ### 主要修改
